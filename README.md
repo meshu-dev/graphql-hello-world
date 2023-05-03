@@ -1,2 +1,3 @@
-# graphql-hello-world
+# GraphQL Hello World
+
 Hello World! example of GraphQL
