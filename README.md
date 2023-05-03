@@ -5,8 +5,6 @@ Hello World! example of GraphQL
 
 ## Setup
 
-### Server
-
 -  Go into server directory
 
 ```
@@ -27,7 +25,31 @@ node server.js
 
 Verify GraphiQL is running by going to displayed url which should be http://localhost:9000.
 
-### Client
+## Run
+
+### GraphiQL
+
+Inside of GraphiQL make sure **Explorer** is selected on the left hand menu.
+
+Run the following querry inside of the **Operation** section.
+
+```
+query  {
+  greeting
+}
+```
+
+You should see the following result if successful.
+
+```
+{
+  "data": {
+    "greeting":  "Hello World!"
+  }
+}
+```
+
+### index.html
 
 Open the index.html file located inside the client folder to load it in the browser.
 
