@@ -29,7 +29,7 @@ Verify GraphiQL is running by going to displayed url which should be http://loca
 
 ### GraphiQL
 
-Inside of GraphiQL make sure **Explorer** is selected on the left hand menu.
+Inside of GraphiQL (http://localhost:9000) make sure **Explorer** is selected on the left hand menu.
 
 Run the following query inside of the **Operation** section.
 
