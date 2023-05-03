@@ -31,7 +31,7 @@ Verify GraphiQL is running by going to displayed url which should be http://loca
 
 Inside of GraphiQL make sure **Explorer** is selected on the left hand menu.
 
-Run the following querry inside of the **Operation** section.
+Run the following query inside of the **Operation** section.
 
 ```
 query  {
